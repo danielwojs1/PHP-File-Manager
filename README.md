@@ -11,3 +11,5 @@ Supported groups:
   Document - pdf, doc, docx, xls, xlsx, ppt, pptx, txt, md, rtf, csv
   Archive - zip, rar, 7z, tar, gz, bz2, xz
 If the icon is not avaiable, unknown.png will be used.
+
+You can enable or disable uploading, downloading and creating folders. You can modify max. upload limit.
